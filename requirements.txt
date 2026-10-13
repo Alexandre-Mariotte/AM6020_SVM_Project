@@ -1,0 +1,7 @@
+ipykernel
+scikit-learn
+matplotlib
+pandas
+seaborn
+
+#ucimlrepo # usefull for fetching datasets from UCI Machine Learning Repository to download datasets directly into your Python environment
