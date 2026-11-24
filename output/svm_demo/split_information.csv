@@ -1,0 +1,4 @@
+Experiment,Train rows,Test rows,Test class 0,Test class 1,Shared test profiles
+wine_type,5197,1300,320,980,378
+red_quality,1279,320,149,171,80
+white_quality,3918,980,328,652,281
